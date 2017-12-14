@@ -16,9 +16,9 @@ It provides a user interface where user can give ratings and get recommendations
 
 Web application deployed over apache tomcat 7.
 
-** Procedural paradgim ( C ) **  - Written to initially populate database with movies and ratings from a prepopulated imdb txt file. 
+**Procedural paradgim ( C )**  - Written to initially populate database with movies and ratings from a prepopulated imdb txt file. 
 
-** Functional paradgim ( scala ) ** - Uses a cosine similarity function with a ranking algorithm to rank movies on per user basis.
+**Functional paradgim ( scala )** - Uses a cosine similarity function with a ranking algorithm to rank movies on per user basis.
 
 
 ## References :
