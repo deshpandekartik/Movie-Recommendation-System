@@ -28,6 +28,6 @@ Web application deployed over apache tomcat 7.
 - http://allaboutscala.com
 
 
-### Contributors
+### Contact
 
 [Kartik Deshpande](https://www.linkedin.com/in/kartik-deshpande/)
