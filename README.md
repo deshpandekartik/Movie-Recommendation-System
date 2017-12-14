@@ -30,4 +30,4 @@ Web application deployed over apache tomcat 7.
 
 ### Contact
 
-Kartik Deshpande [[kartik-deshpande|https://www.linkedin.com/in/kartik-deshpande/]]
+Kartik Deshpande [link to Google!](http://google.com)
